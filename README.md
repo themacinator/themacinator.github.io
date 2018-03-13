@@ -1,2 +1,2 @@
-# themacinator.github.io
-site to host some s***
+# Mac Graham's GitHub Pages Site
+nothing much to see here

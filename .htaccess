@@ -1,5 +1,5 @@
 AuthName "Authentication"
 AuthType Basic
-AuthUserFile /customers/6/d/c/themacinator.github.io/httpd.www/.htpasswd
+AuthUserFile .htpasswd
 AuthGroupFile /dev/null 
 require valid-user
